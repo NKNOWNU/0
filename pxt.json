@@ -1,0 +1,22 @@
+{
+    "name": "簡易遙控車",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "BitRacer": "github:51135499/bitracer#066fa557214aea79a82a79f73d2ddc5c665d3075"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
